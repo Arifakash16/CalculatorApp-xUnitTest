@@ -103,3 +103,6 @@ D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\obj\Debug\net8.0\refi
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\obj\Debug\net8.0\SimpleCalculatorApp.Tests.pdb
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\obj\Debug\net8.0\SimpleCalculatorApp.Tests.genruntimeconfig.cache
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\obj\Debug\net8.0\ref\SimpleCalculatorApp.Tests.dll
+D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\obj\Debug\net8.0\SimpleCalculatorApp.Tests.sourcelink.json
+D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\NSubstitute.dll

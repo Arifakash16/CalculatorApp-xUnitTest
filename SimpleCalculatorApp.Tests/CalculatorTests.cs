@@ -32,7 +32,7 @@ namespace SimpleCalculatorApp.Tests
 
             // Assert
             Assert.Equal(substract,result);
-        }
+        }        
 
         [Fact]
         public void Multiply_ShouldReturnCorrectProduct()

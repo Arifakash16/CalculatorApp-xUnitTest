@@ -12,3 +12,4 @@ D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\net8.0\refint\Sim
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\net8.0\SimpleCalculatorApp.pdb
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\net8.0\SimpleCalculatorApp.genruntimeconfig.cache
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\net8.0\ref\SimpleCalculatorApp.dll
+D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\net8.0\SimpleCalculatorApp.sourcelink.json
