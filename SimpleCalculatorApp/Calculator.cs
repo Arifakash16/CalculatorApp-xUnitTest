@@ -8,7 +8,6 @@ namespace SimpleCalculatorApp
 {
     public class Calculator : ICalculator
     {
-        IScientificCalculator scientificCalculator = new ScientificCalculator();    
         public int Add(int num1, int num2) 
         {
             return num1 + num2;

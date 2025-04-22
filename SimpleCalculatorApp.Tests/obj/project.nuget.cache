@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QnzP56RNA/Y=",
+  "dgSpecHash": "LD5r6WBzcSU=",
   "success": true,
   "projectFilePath": "D:\\Unit Test\\SimpleCalculatorApp\\SimpleCalculatorApp.Tests\\SimpleCalculatorApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OPL\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
-    "C:\\Users\\OPL\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\OPL\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -18,7 +18,8 @@
     "C:\\Users\\OPL\\.nuget\\packages\\nsubstitute\\4.0.0\\nsubstitute.4.0.0.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\nsubstitute.analyzers.csharp\\1.0.17\\nsubstitute.analyzers.csharp.1.0.17.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
-    "C:\\Users\\OPL\\.nuget\\packages\\reportgenerator\\4.8.13\\reportgenerator.4.8.13.nupkg.sha512",
+    "C:\\Users\\OPL\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512",
+    "C:\\Users\\OPL\\.nuget\\packages\\reportgenerator\\5.4.5\\reportgenerator.5.4.5.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

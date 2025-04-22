@@ -11,10 +11,11 @@
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "NSubstitute": "4.0.0",
           "NSubstitute.Analyzers.CSharp": "1.0.17",
-          "ReportGenerator": "4.8.13",
+          "OpenCover": "4.7.1221",
+          "ReportGenerator": "5.4.5",
           "SimpleCalculatorApp": "1.0.0",
           "System.ValueTuple": "4.6.1",
-          "coverlet.collector": "6.0.0",
+          "coverlet.collector": "6.0.4",
           "xunit": "2.5.3",
           "xunit.runner.console": "2.9.3",
           "xunit.runner.visualstudio": "2.5.3"
@@ -43,7 +44,7 @@
           }
         }
       },
-      "coverlet.collector/6.0.0": {},
+      "coverlet.collector/6.0.4": {},
       "Microsoft.CodeCoverage/17.8.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -391,7 +392,8 @@
           }
         }
       },
-      "ReportGenerator/4.8.13": {},
+      "OpenCover/4.7.1221": {},
+      "ReportGenerator/5.4.5": {},
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
@@ -1182,12 +1184,12 @@
       "path": "castle.core/4.3.1",
       "hashPath": "castle.core.4.3.1.nupkg.sha512"
     },
-    "coverlet.collector/6.0.0": {
+    "coverlet.collector/6.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-tW3lsNS+dAEII6YGUX/VMoJjBS1QvsxqJeqLaJXub08y1FSjasFPtQ4UBUsudE9PNrzLjooClMsPtY2cZLdXpQ==",
-      "path": "coverlet.collector/6.0.0",
-      "hashPath": "coverlet.collector.6.0.0.nupkg.sha512"
+      "sha512": "sha512-lkhqpF8Pu2Y7IiN7OntbsTtdbpR1syMsm2F3IgX6ootA4ffRqWL5jF7XipHuZQTdVuWG/gVAAcf8mjk8Tz0xPg==",
+      "path": "coverlet.collector/6.0.4",
+      "hashPath": "coverlet.collector.6.0.4.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.8.0": {
       "type": "package",
@@ -1273,12 +1275,19 @@
       "path": "nuget.frameworks/6.5.0",
       "hashPath": "nuget.frameworks.6.5.0.nupkg.sha512"
     },
-    "ReportGenerator/4.8.13": {
+    "OpenCover/4.7.1221": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mE3dBdsNpJ2ldjN4KcE+KsAwODdGIsLbbs4/YBvdn0LGzn2g3ugTZ7A6/ZBb4ofBZrcvSZpYNzvS93XPE2je6w==",
-      "path": "reportgenerator/4.8.13",
-      "hashPath": "reportgenerator.4.8.13.nupkg.sha512"
+      "sha512": "sha512-XZsMfTpbGnqLWCQjOeLlbDUU0lazJHbyEX52d7oRSuQX7Ve+23nfk4TF/F61hS382IEHB8WvUwkPB2IIA9WqEQ==",
+      "path": "opencover/4.7.1221",
+      "hashPath": "opencover.4.7.1221.nupkg.sha512"
+    },
+    "ReportGenerator/5.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZtmvAjxEoKZmTEZP9x2Lz0cOSybfPPiVVAy6JsUB3g9ZlL7vNPBygmhgNQf5DIjzZ7DSvnnD4fNYhVnHxNf2vw==",
+      "path": "reportgenerator/5.4.5",
+      "hashPath": "reportgenerator.5.4.5.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",

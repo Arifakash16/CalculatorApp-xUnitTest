@@ -68,17 +68,23 @@
               "target": "Package",
               "version": "[1.0.17, )"
             },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.1221, )"
+            },
             "ReportGenerator": {
               "target": "Package",
-              "version": "[4.8.13, )"
+              "version": "[5.4.5, )"
             },
             "System.ValueTuple": {
               "target": "Package",
               "version": "[4.6.1, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.4, )"
             },
             "xunit": {
               "target": "Package",

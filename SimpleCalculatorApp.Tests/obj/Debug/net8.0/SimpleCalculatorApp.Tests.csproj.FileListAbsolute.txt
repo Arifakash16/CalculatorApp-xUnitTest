@@ -1,4 +1,3 @@
-D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_SimpleCalculatorApp.Tests
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\testhost.dll
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\SimpleCalculatorApp.deps.json
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\SimpleCalculatorApp.runtimeconfig.json
@@ -106,3 +105,4 @@ D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\obj\Debug\net8.0\ref\
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\obj\Debug\net8.0\SimpleCalculatorApp.Tests.sourcelink.json
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\Castle.Core.dll
 D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\NSubstitute.dll
+D:\Unit Test\SimpleCalculatorApp\SimpleCalculatorApp.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_SimpleCalculatorApp.Tests
